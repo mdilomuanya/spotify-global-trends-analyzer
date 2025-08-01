@@ -55,9 +55,9 @@ Final visualizations were built in Tableau (`Spotify_Tableau_Final.twb`) to visu
 
 ---
 
-## Repository Structure
-
-
+## Dashboards
+![Artist Dashboard](assets/Artist_Dashboard.png)
+![Genre Dashboard](assets/Genre_Dashboard.png)
 
 ---
 
