@@ -1,4 +1,4 @@
-# Analysis of Spotify Global Trends
+# Analysis of Spotify Global Trends <img src="assets/Spotify-Icon-Logo.wine.png" alt="Spotify Banner" width="22">
 This project explores global and regional music trends by analyzing Spotify's Top 200 charts across ten countries. Using a pipeline built with Python, SQL, and Tableau, the project answers four key questions about genre popularity, global artist reach, and localized listening behaviors.
 
 ### Questions Answered
