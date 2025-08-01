@@ -89,7 +89,7 @@ Final visualizations were built in Tableau (`Spotify_Tableau_Final.twb`) to visu
 ## Future Improvements
 - Automate daily data pulls to detect trends over time 
 - Integrate additional metadata (e.g., mood, tempo)
-- Work around songs not having a genre somehow
+- Work around songs not having a genre
 
 ---
 
