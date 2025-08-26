@@ -20,7 +20,7 @@ This project explores global and regional music trends by analyzing Spotify's To
 ## Project Workflow
 
 ### 1. Python: Data Collection & Enrichment
-We used the Spotify API to:
+Used the Spotify API to:
 - Scrape the Top 200 tracks for 10 countries
 - Extract track metadata (artist names, track name, URI, chart rank)
 - Enrich the dataset by retrieving artist-level information:
@@ -86,10 +86,31 @@ Final visualizations were built in Tableau (`Spotify_Tableau_Final.twb`) to visu
 ###### *note: some songs lacked a genre category, and were therefore left out of the genre level analysis
 ---
 
+## Industry Specific Recommendations Based on the Data
+### 1. Advertisers: Who to Partner With, Where, and Why?
+**Observation:** Global stars like Justin Bieber are efficient for reach, but their ubiquity also means they operate in highly competitive, expensive advertising space. In contrast, regional superstars (e.g., Burna Boy in Nigeria, Pritam in India) deliver near-monopoly levels of cultural attention within their markets.
+
+**Suggestion:** Instead of defaulting to global names, advertisers should evaluate share-of-attention concentration. Partnering with a regional artist who commands 10–20% of a country’s listening base provides outsized impact at lower cost. This creates competitive advantage in markets where brand clutter is otherwise low.
+
+### 2. Record Labels: Where to Place Bets
+**Observation:** K-pop demonstrates high efficiency in streams per track, not just popularity. This suggests its value is less about raw audience size and more about a business model that maximizes per-fan output through structured production and fandom economies.
+
+**Suggestion:** Labels shouldn’t simply sign “the next K-pop group.” Instead, they should replicate the operational model—tight brand identity, multi-version releases, and fan monetization layers—in other under-exported genres (e.g., South African rap or Brazilian funk). This turns a genre into a scalable product system, not just a local trend.
+
+### 3. Spotify: Where Growth Actually Lies
+**Observation:** India, Brazil, and Nigeria have outsized cultural dominance of local artists but remain underdeveloped in streaming relative to population. This indicates that streaming growth in these countries is capped less by demand and more by infrastructure (payment systems, local playlisting, telecom partnerships).
+
+**Suggestion:** For Spotify, the real opportunity isn’t just more playlists—it’s solving systemic barriers: bundling with telcos in Nigeria, hyper-local playlist curation in India, and differentiated pricing in Brazil.
+
+### 4. Artists: How to Break Out Internationally
+**Observation:** No single artist spans all 10 countries, highlighting the absence of a truly global act. Success is built stepwise: from local dominance → regional adjacency → global crossover.
+**Suggestion:** For an emerging artist, the strategy is s**equencing market entry**. Begin with a cultural fit market (e.g., Afrobeats in Nigeria), use collabs to bridge into adjacent genres/regions (e.g., Afrobeats → Latin), and then secure a feature with a global act. What matters is not “who is big now” but how to construct a scalable career trajectory.
+
+---
 ## Future Improvements
 - Automate daily data pulls to detect trends over time 
 - Integrate additional metadata (e.g., mood, tempo)
-- Work around songs not having a genre
+- Work around songs not having a genres
 
 ---
 
