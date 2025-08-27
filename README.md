@@ -104,6 +104,7 @@ Final visualizations were built in Tableau (`Spotify_Tableau_Final.twb`) to visu
 
 ### 4. Artists: How to Break Out Internationally
 **Observation:** No single artist spans all 10 countries, highlighting the absence of a truly global act. Success is built stepwise: from local dominance → regional adjacency → global crossover.
+
 **Suggestion:** For an emerging artist, the strategy is s**equencing market entry**. Begin with a cultural fit market (e.g., Afrobeats in Nigeria), use collabs to bridge into adjacent genres/regions (e.g., Afrobeats → Latin), and then secure a feature with a global act. What matters is not “who is big now” but how to construct a scalable career trajectory.
 
 ---
