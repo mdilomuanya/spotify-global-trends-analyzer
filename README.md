@@ -48,7 +48,9 @@ Tables were exported into Excel to:
 - Create backup copies of key aggregates
 
 ### 4. Tableau: Dashboard Visualization
-Final visualizations were built in Tableau (`Spotify_Tableau_Final.twb`) to visually answer our four key questions. Dashboards include:
+To visually answer our four key questions visualizations were built in Tableau and are displayed on my [Tableau Public Page](https://public.tableau.com/app/profile/matthew.david.ilomuanya/vizzes).
+
+The dashboards include:
 - Bar charts of genre popularity by country
 - Bubble plots of artists' global reach
 - Highlight tables of regional superstars with localized success
@@ -118,5 +120,5 @@ Final visualizations were built in Tableau (`Spotify_Tableau_Final.twb`) to visu
 ## Author
 **Matthew-David Ilomuanya**  
 Data Analyst & Researcher  
-LinkedIn | GitHub | Portfolio Website
+[LinkedIn](https://www.linkedin.com/in/matthew-david-ilomuanya-2498101a5/) | Portfolio Website
 
